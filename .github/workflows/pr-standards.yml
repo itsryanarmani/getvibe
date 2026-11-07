@@ -10,7 +10,7 @@ concurrency:
 
 # This job waits on the GitHub API and does no compute, so it takes the
 # smallest runner. This repo is public, so that runner is GitHub-hosted
-# `ubuntu-latest` (free). Private pooriaarab repos stay on Ubicloud. The
+# `ubuntu-latest` (free). Private itsryanarmani repos stay on Ubicloud. The
 # self-hosted fleet is retired. See #20.
 jobs:
   pr-standards:
