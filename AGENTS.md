@@ -15,12 +15,12 @@ You pick a companion → you get one `npx` command that runs on the user's machi
 
 | Tool | Command | Repo (if the name differs) |
 | --- | --- | --- |
-| [viberadio](https://getvibe.dev/viberadio) | `npx viberadio-fm` | `pooriaarab/viberadio` |
+| [viberadio](https://getvibe.dev/viberadio) | `npx viberadio-fm` | `itsryanarmani/viberadio` |
 | [vibemovie](https://getvibe.dev/vibemovie) | `npx vibemovie` | |
 | [vibelive](https://getvibe.dev/vibelive) | `npx vibelive` | |
-| [vibeshare](https://getvibe.dev/vibeshare) | `npx vibeshare-live` | `pooriaarab/vibeshare` |
+| [vibeshare](https://getvibe.dev/vibeshare) | `npx vibeshare-live` | `itsryanarmani/vibeshare` |
 | [vibedonate](https://getvibe.dev/vibedonate) | `npx vibedonate` | |
-| [vibedate](https://getvibe.dev/vibedate) | `npx vibedate` | `pooriaarab/vibedating` |
+| [vibedate](https://getvibe.dev/vibedate) | `npx vibedate` | `itsryanarmani/vibedating` |
 | [vibeads](https://getvibe.dev/vibeads) | `npx vibeads` | |
 | [vibenotifications](https://getvibe.dev/vibenotifications) | `npx vibenotifications` | |
 | [vibebrand](https://getvibe.dev/vibebrand) | | |
@@ -36,7 +36,7 @@ You pick a companion → you get one `npx` command that runs on the user's machi
 ## Rules
 
 - This repo is a static site. Do not invent an API, auth, billing, or MCP for getvibe.dev.
-- Package names are not always the product names: `viberadio-fm`, `vibeshare-live`. vibedate's GitHub repo is `pooriaarab/vibedating`.
+- Package names are not always the product names: `viberadio-fm`, `vibeshare-live`. vibedate's GitHub repo is `itsryanarmani/vibedating`.
 - Do not fabricate testimonials, metrics, or paid plans. None exist on this site.
 - Local-first: the tools run on the user's machine with the user's keys.
 
@@ -48,8 +48,8 @@ Free. No paid plans, no account, no checkout on getvibe.dev. A companion with a 
 
 This repo is public, so every job runs on GitHub-hosted `ubuntu-latest`.
 Public repos get those runners for free; Ubicloud bills by the minute.
-Private `pooriaarab/*` repos stay on Ubicloud. The Dell fleet is retired.
-Never re-add a self-hosted label. See pooriaarab/scripts#217.
+Private `itsryanarmani/*` repos stay on Ubicloud. The Dell fleet is retired.
+Never re-add a self-hosted label. See itsryanarmani/scripts#217.
 
 <!-- pr-standards:start -->
 
@@ -77,7 +77,7 @@ code and migrations are not counted. There is no label that clears the cap and
 no one to ask for one. Split the change.
 
 Settings for this repo are in `.github/pr-standards.json`. The standard is at
-https://github.com/pooriaarab/scripts/blob/main/pr-standards.md
+https://github.com/itsryanarmani/scripts/blob/main/pr-standards.md
 
 <!-- pr-standards:end -->
 
@@ -113,6 +113,6 @@ echo 'No test command detected'
 Follow the fleet PR standard in this repo's `AGENTS.md` (`<!-- pr-standards:start -->` block).
 Cloud agents need push access via Git integration and a successful environment Build.
 
-Setup guide: https://github.com/pooriaarab/scripts/blob/main/cursor-cloud-rollout.md
+Setup guide: https://github.com/itsryanarmani/scripts/blob/main/cursor-cloud-rollout.md
 
 <!-- cursor-cloud:end -->

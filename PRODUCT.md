@@ -22,14 +22,14 @@ Local-first companions: "your machine, your keys." Each tool installs with one `
 
 - Site is a static deploy at https://getvibe.dev (subpages as clean URLs `/<slug>`).
 - Launch videos for six products exist at `/videos/<name>-16x9.mp4` (and 9x16 variants); vibeads, vibenotifications, and vibecodereview have none.
-- Every product has both an npm package page and a GitHub repo under `pooriaarab/`.
+- Every product has both an npm package page and a GitHub repo under `itsryanarmani/`.
 
 ## Capabilities and Constraints
 
 - Self-contained: system font stack only, no external requests; inline vanilla JS permitted.
 - Dark, minimal visual register; references: private-repo-4944.com, here.now.
 - Accessibility target: WCAG AA (contrast, focus states, semantic landmarks, skip link, keyboard nav).
-- vibedate's repo is `pooriaarab/vibedating` (name ≠ repo). viberadio's package is `viberadio-fm`; vibeshare's is `vibeshare-live`.
+- vibedate's repo is `itsryanarmani/vibedating` (name ≠ repo). viberadio's package is `viberadio-fm`; vibeshare's is `vibeshare-live`.
 
 ## Brand Commitments
 
