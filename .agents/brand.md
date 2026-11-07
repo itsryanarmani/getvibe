@@ -31,7 +31,7 @@ Keep the catalog free of accounts, billing, checkout, and fabricated plans.
 - Write `The Vibe Suite` with those capitals.
 - Keep product names lowercase.
 - Preserve package differences: `viberadio-fm` and `vibeshare-live`.
-- Link `vibedate` to the `pooriaarab/vibedating` repository.
+- Link `vibedate` to the `itsryanarmani/vibedating` repository.
 
 ## Mark
 
